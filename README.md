@@ -1,6 +1,6 @@
 # Autoresearch-Pilot-Hearing-Loss-in-AIED-Target-Prioritization
 This project explores the implementation of Karpathy-style autoresearch to improve research efficiency and reproducibility in the context of hearing loss target prioritization.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[Phoebegitgo]/[Autoresearch-Pilot-Hearing-Loss-in-AIED-Target-Prioritization]/blob/main/autoimmune_snhl_target_discovery.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Phoebegitgo/Autoresearch-Pilot-Hearing-Loss-in-AIED-Target-Prioritization/blob/main/autoimmune_snhl_target_discovery.ipynb)
 
 # Autoimmune Disease × Sensorineural Hearing Loss
 ## Molecular Target Discovery Protocol
